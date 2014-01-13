@@ -1,0 +1,57 @@
+Arduino
+VCC -> 3.3V (Breadboard)
+GND -> Ground (Breadboard)
+2 -> UART_TX (RN-52)
+3 -> UART_RX (RN-52)
+4 -> GPIO2 (RN-52)
+5 -> GPIO9 (RN-52)
+6 -> Hook Cable
+7 -> Rotary Start Position Cable
+8 -> Rotary Dial Cable
+9 -> SDL (AMP)
+
+RN-52
+3.3v -> 3.3V (Breadboard)
+PWR_EN -> 3.3V (Breadboard)
+GND -> Ground (Breadboard)
+UART_TX -> 2 (Arduino)
+UART_RX -> 3 (Arduino)
+GPIO2 -> 4 (Arduino)
+GPIO7 -> Ground (Breadboard)
+GPIO9 -> 5 (Arduino)
+SPK_L+ -> Speaker + (Handset)
+SPK_L- -> Speaker - (Handset)
+SPK_R+ -> L+ (AMP)
+SPK_R- -> L- (AMP)
+MIC_L+ -> MIC_L+ (Breadboard)
+
+AMP
+VDD -> 3.3V (Breadboard)
+GND -> Ground (Breadboard)
+L- -> SPK_R- (RN-52)
+L+ -> SPK_R+ (RN-52)
+SDL -> 9 (Arduino)
+Left - -> Speaker -
+Left + -> Speaker +
+
+Handset
+Speaker + -> SPK_L+ (RN-52)
+Speaker - -> SPK_L- (RN-52)
+Mic + -> Mic + (Breadboard)
+Mic - -> Ground (Breadboard)
+
+Breadboard (Mic Hookup)
+3.3V -> 10k Resistor = Mic +
+Mic + -> Mic + (Handset)
+Mic + -> 10uF Cap = Mic +2
+Mic +2 -> MIC_L+ (RN-52)
+Ground -> Mic - (Handset) You can put a 10k resistor between ground and Mic -. That's how I'm doing it, but if you don't have another 10k resistor to spare it works without.
+
+PowerCell 3.3V
+VCC -> 3.3V (Breadboard)
+GND -> Ground (Breadboard)
+EN -> Power Switch
+
+Power Switch
+C1 -> EN (PowerCell)
+C2 -> Ground (Breadboard)

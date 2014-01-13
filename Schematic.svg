@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px"
+	 height="626px" viewBox="0 0 612 626" enable-background="new 0 0 612 626" xml:space="preserve">
+<g id="PowerCell">
+	<rect id="Board_1_" x="56.667" y="545.05" fill="none" stroke="#000000" stroke-miterlimit="10" width="74.16" height="68.4"/>
+	<text id="Title_1_" transform="matrix(1 0 0 1 62 583.6693)" font-family="'SourceCodePro-Regular'" font-size="12">PowerCell</text>
+	<g id="TOP">
+		<g id="PS">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="73.835" cy="551.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 62.0503 552.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PS</text>
+		</g>
+		<g id="VCC">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="86.835" cy="551.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 81.4349 559.6692)" font-family="'SourceCodePro-Regular'" font-size="6">VCC</text>
+		</g>
+		<g id="GND_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="99.835" cy="551.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 94.4349 559.6694)" font-family="'SourceCodePro-Regular'" font-size="6">GND</text>
+		</g>
+		<g id="EN">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="111.835" cy="551.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 116.25 552.6693)" font-family="'SourceCodePro-Regular'" font-size="6">EN</text>
+		</g>
+	</g>
+	<g id="Bottom">
+		<g id="_x35_V">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="88.835" cy="607.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 77.0503 608.6693)" font-family="'SourceCodePro-Regular'" font-size="6">5V</text>
+		</g>
+		<g id="GND_2_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="96.835" cy="607.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 101.25 608.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GND</text>
+		</g>
+	</g>
+</g>
+<g id="Breadboard">
+	<rect id="Board_4_" x="195.5" y="424.312" fill="none" stroke="#000000" stroke-miterlimit="10" width="133.228" height="99.213"/>
+	<g id="Bottom_2_">
+		<g id="Line_33_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_32_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_31_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_30_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_29_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_28_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_27_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_26_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_25_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_24_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_23_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_22_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_21_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_20_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_19_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_18_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="517.485" r="3.118"/>
+		</g>
+		<g id="Line_17_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="486.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="494.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="502.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="509.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="517.485" r="3.118"/>
+		</g>
+	</g>
+	<g id="Top_1_">
+		<g id="Line">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="200.494" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="208.194" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_2_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="215.894" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_3_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="223.594" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_4_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="231.294" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_5_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="238.994" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_6_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="246.694" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_7_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="254.394" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_8_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="262.094" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_9_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="269.794" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_10_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="277.494" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_11_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="285.194" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_12_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="292.895" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_13_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="300.594" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_14_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="308.294" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_15_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="315.994" cy="461.485" r="3.118"/>
+		</g>
+		<g id="Line_16_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="430.685" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="438.385" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="446.085" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="453.785" r="3.118"/>
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="323.694" cy="461.485" r="3.118"/>
+		</g>
+	</g>
+	<text id="Title_4_" transform="matrix(1 0 0 1 223 477.6693)" font-family="'SourceCodePro-Regular'" font-size="12">Breadboard</text>
+</g>
+<g id="Switch">
+	
+		<rect id="Switch_1_" x="36.835" y="388.333" fill="none" stroke="#000000" stroke-miterlimit="10" width="28.346" height="28.346"/>
+	<text id="Title_6_" transform="matrix(1 0 0 1 30.5291 381.9997)" font-family="'SourceCodePro-Regular'" font-size="12">Switch</text>
+</g>
+<g id="RN-52">
+	<rect id="Board" x="191.316" y="161.316" fill="none" stroke="#000000" stroke-miterlimit="10" width="102.047" height="147.402"/>
+	<text id="Title" transform="matrix(1 0 0 1 226 235.0166)" font-family="'SourceCodePro-Regular'" font-size="12">RN-52</text>
+	<g id="Right">
+		<g id="GND">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="302.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 272.4502 303.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GND</text>
+		</g>
+		<g id="PCM_x5F_CK">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="295.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 296.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PCM_CK</text>
+		</g>
+		<g id="PCM_x5F_SYNC">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="288.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 254.4502 289.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PCM_SYNC</text>
+		</g>
+		<g id="PCM_x5F_OUT">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="281.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 258.0503 282.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PCM_OUT</text>
+		</g>
+		<g id="PCM_x5F_IN">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="274.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 275.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PCM_IN</text>
+		</g>
+		<g id="SPI_x5F_SS">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="267.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 268.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPI_SS</text>
+		</g>
+		<g id="SPI_x5F_MISO">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="260.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 254.4502 261.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPI_MISO</text>
+		</g>
+		<g id="SPI_x5F_CLK">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="253.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 258.0503 254.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPI_CLK</text>
+		</g>
+		<g id="SPI_x5F_MOSI">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="246.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 254.4502 247.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPI_MOSI</text>
+		</g>
+		<g id="LED1">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="239.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 268.8501 240.6693)" font-family="'SourceCodePro-Regular'" font-size="6">LED1</text>
+		</g>
+		<g id="LED0">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="232.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 268.8501 233.6693)" font-family="'SourceCodePro-Regular'" font-size="6">LED0</text>
+		</g>
+		<g id="M_x5F_BIAS">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="225.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 226.6693)" font-family="'SourceCodePro-Regular'" font-size="6">M_BIAS</text>
+		</g>
+		<g id="MIC_x5F_L_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="218.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 219.6693)" font-family="'SourceCodePro-Regular'" font-size="6">MIC_L+</text>
+		</g>
+		<g id="MIC_x5F_R_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="211.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 212.6693)" font-family="'SourceCodePro-Regular'" font-size="6">MIC_R+</text>
+		</g>
+		<g id="MIC_x5F_L-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="204.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 205.6693)" font-family="'SourceCodePro-Regular'" font-size="6">MIC_L-</text>
+		</g>
+		<g id="MIC_x5F_R-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="197.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 198.6693)" font-family="'SourceCodePro-Regular'" font-size="6">MIC_R-</text>
+		</g>
+		<g id="SPK_x5F_R-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="190.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 191.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPK_R-</text>
+		</g>
+		<g id="SPK_x5F_L-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="183.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 184.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPK_L-</text>
+		</g>
+		<g id="SPK_x5F_R_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="176.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 177.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPK_R+</text>
+		</g>
+		<g id="SPK_x5F_L_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="287.835" cy="169.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 261.6504 170.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SPK_L+</text>
+		</g>
+	</g>
+	<g id="Left_1_">
+		<g id="_x33_.3V">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="302.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 303.6693)" font-family="'SourceCodePro-Regular'" font-size="6">3.3V</text>
+		</g>
+		<g id="PWR_x5F_EN">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="295.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 296.6693)" font-family="'SourceCodePro-Regular'" font-size="6">PWR_EN</text>
+		</g>
+		<g id="GPIO6">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="288.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 289.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO6</text>
+		</g>
+		<g id="GPIO7">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="281.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 282.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO7</text>
+		</g>
+		<g id="UART_x5F_RX">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="274.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 275.6693)" font-family="'SourceCodePro-Regular'" font-size="6">UART_RX</text>
+		</g>
+		<g id="UART_x5F_TX">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="267.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 268.6693)" font-family="'SourceCodePro-Regular'" font-size="6">UART_TX</text>
+		</g>
+		<g id="UART_x5F_CTS">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="260.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 261.6693)" font-family="'SourceCodePro-Regular'" font-size="6">UART_CTS</text>
+		</g>
+		<g id="UART_x5F_RTS">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="253.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 254.6693)" font-family="'SourceCodePro-Regular'" font-size="6">UART_RTS</text>
+		</g>
+		<g id="USBD_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="246.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 247.6693)" font-family="'SourceCodePro-Regular'" font-size="6">USBD+</text>
+		</g>
+		<g id="USBD-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="239.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 240.6693)" font-family="'SourceCodePro-Regular'" font-size="6">USBD-</text>
+		</g>
+		<g id="GPIO9">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="232.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 233.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO9</text>
+		</g>
+		<g id="GPIO10">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="225.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 226.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO10</text>
+		</g>
+		<g id="GPIO11">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="218.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 219.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO11</text>
+		</g>
+		<g id="GPIO13">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="211.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 212.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO13</text>
+		</g>
+		<g id="GPIO12">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="204.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 205.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO12</text>
+		</g>
+		<g id="GPIO5">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="197.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 198.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO5</text>
+		</g>
+		<g id="GPIO4">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="190.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 191.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO4</text>
+		</g>
+		<g id="ACI0">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="183.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 184.6693)" font-family="'SourceCodePro-Regular'" font-size="6">ACI0</text>
+		</g>
+		<g id="GPIO2">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="176.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 177.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO2</text>
+		</g>
+		<g id="GPIO3">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="196.835" cy="169.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 201.25 170.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GPIO3</text>
+		</g>
+	</g>
+</g>
+<g id="Speaker">
+	<circle id="Speaker_1_" fill="none" stroke="#000000" stroke-miterlimit="10" cx="488.128" cy="494.053" r="109.134"/>
+	<text id="Title_5_" transform="matrix(1 0 0 1 462.929 493.9997)" font-family="'SourceCodePro-Regular'" font-size="12">Speaker</text>
+</g>
+<g id="AMP">
+	<path id="Board_2_" fill="none" stroke="#000000" stroke-miterlimit="10" d="M471,287.419c0,1.566-1.269,2.835-2.835,2.835h-59.131
+		c-1.566,0-2.835-1.269-2.835-2.835v-74.251c0-1.566,1.269-2.835,2.835-2.835h59.131c1.566,0,2.835,1.269,2.835,2.835V287.419z"/>
+	<g id="Right_1_">
+		<text transform="matrix(1 0 0 1 464.035 273.0847)" font-family="'SourceCodePro-Regular'" font-size="6">+</text>
+		<circle id="L_x2B__1_" fill="none" stroke="#000000" stroke-miterlimit="10" cx="465.835" cy="265.044" r="2.835"/>
+		<text transform="matrix(1 0 0 1 446.5998 262.2094)" font-family="'SourceCodePro-Regular'" font-size="6">Left</text>
+		<circle id="L-_1_" fill="none" stroke="#000000" stroke-miterlimit="10" cx="465.835" cy="257.044" r="2.835"/>
+		<text transform="matrix(1 0 0 1 464.035 253.0848)" font-family="'SourceCodePro-Regular'" font-size="6">-</text>
+		<circle id="R-_1_" fill="none" stroke="#000000" stroke-miterlimit="10" cx="465.835" cy="245.044" r="2.835"/>
+		<text transform="matrix(1 0 0 1 443.0002 242.2094)" font-family="'SourceCodePro-Regular'" font-size="6">Right</text>
+		<circle id="R_x2B__1_" fill="none" stroke="#000000" stroke-miterlimit="10" cx="465.835" cy="237.044" r="2.835"/>
+		<text transform="matrix(1 0 0 1 464.035 232.0848)" font-family="'SourceCodePro-Regular'" font-size="6">+</text>
+	</g>
+	<g id="Left">
+		<g id="G1">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="281.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 282.6693)" font-family="'SourceCodePro-Regular'" font-size="6">G1</text>
+		</g>
+		<g id="G0">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="274.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 275.6693)" font-family="'SourceCodePro-Regular'" font-size="6">G0</text>
+		</g>
+		<g id="SDL">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="267.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 268.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SDL</text>
+		</g>
+		<g id="L_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="260.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 261.6693)" font-family="'SourceCodePro-Regular'" font-size="6">L+</text>
+		</g>
+		<g id="L-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="253.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 254.6693)" font-family="'SourceCodePro-Regular'" font-size="6">L-</text>
+		</g>
+		<g id="R-">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="246.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 247.6693)" font-family="'SourceCodePro-Regular'" font-size="6">R-</text>
+		</g>
+		<g id="R_x2B_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="239.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 240.6693)" font-family="'SourceCodePro-Regular'" font-size="6">R+</text>
+		</g>
+		<g id="SDR">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="232.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 233.6693)" font-family="'SourceCodePro-Regular'" font-size="6">SDR</text>
+		</g>
+		<g id="GND_3_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="225.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 226.6693)" font-family="'SourceCodePro-Regular'" font-size="6">GND</text>
+		</g>
+		<g id="VDD">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="411.835" cy="218.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 416.25 219.6693)" font-family="'SourceCodePro-Regular'" font-size="6">VDD</text>
+		</g>
+	</g>
+	<text id="Title_2_" transform="matrix(1 0 0 1 429 254.6693)" font-family="'SourceCodePro-Regular'" font-size="12">AMP</text>
+</g>
+<g id="Arduino">
+	<rect id="Board_3_" x="27.835" y="287" fill="none" stroke="#000000" stroke-miterlimit="10" width="93.6" height="50.4"/>
+	<g id="Bottom_1_">
+		<g id="_x31_0">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="32.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 31.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">10</text>
+		</g>
+		<g id="_x31_1">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="39.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 38.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">11</text>
+		</g>
+		<g id="_x31_2">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="46.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 45.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">12</text>
+		</g>
+		<g id="_x31_3">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="53.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 52.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">13</text>
+		</g>
+		<g id="A0">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="60.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 59.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">A0</text>
+		</g>
+		<g id="A1">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="67.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 66.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">A1</text>
+		</g>
+		<g id="A2">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="74.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 73.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">A2</text>
+		</g>
+		<g id="A3">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="81.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 80.0359 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">A3</text>
+		</g>
+		<g id="VCC_2_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="88.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 86.1355 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">VCC</text>
+		</g>
+		<g id="RST_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="95.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 93.1355 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">RST</text>
+		</g>
+		<g id="GND_6_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="102.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 100.1355 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">GND</text>
+		</g>
+		<g id="RAW">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="109.835" cy="332.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 107.1355 328.501)" font-family="'SourceCodePro-Regular'" font-size="3">RAW</text>
+		</g>
+	</g>
+	<g id="Middle">
+		<g id="A6">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="50.358" cy="323.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 48.5589 319.501)" font-family="'SourceCodePro-Regular'" font-size="3">A6</text>
+		</g>
+		<g id="A5_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="57.358" cy="323.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 55.5589 319.501)" font-family="'SourceCodePro-Regular'" font-size="3">A7</text>
+		</g>
+		<g id="A4">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="78.358" cy="323.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 76.5589 319.501)" font-family="'SourceCodePro-Regular'" font-size="3">A4</text>
+		</g>
+		<g id="A5">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="85.358" cy="323.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 83.5589 319.501)" font-family="'SourceCodePro-Regular'" font-size="3">A5</text>
+		</g>
+	</g>
+	<g id="Right_2_">
+		<g id="GRN">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.835" cy="329.603" r="2.835"/>
+			<text transform="matrix(1 0 0 1 114.1346 336.1875)" font-family="'SourceCodePro-Regular'" font-size="3">GRN</text>
+		</g>
+		<g id="TXO_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.849" cy="322.478" r="2.835"/>
+			<text transform="matrix(0 1 -1 0 110.2646 319.7778)" font-family="'SourceCodePro-Regular'" font-size="3">TXO</text>
+		</g>
+		<g id="RXI_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.849" cy="315.478" r="2.835"/>
+			<text transform="matrix(0 1 -1 0 110.2646 312.7778)" font-family="'SourceCodePro-Regular'" font-size="3">RXI</text>
+		</g>
+		<g id="VCC_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.849" cy="308.478" r="2.835"/>
+			<text transform="matrix(0 1 -1 0 110.2646 305.7778)" font-family="'SourceCodePro-Regular'" font-size="3">VCC</text>
+		</g>
+		<g id="GND_5_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.849" cy="301.478" r="2.835"/>
+			<text transform="matrix(0 1 -1 0 110.2646 298.7778)" font-family="'SourceCodePro-Regular'" font-size="3">GND</text>
+		</g>
+		<g id="BLK">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.835" cy="294.488" r="2.835"/>
+			<text transform="matrix(1 0 0 1 114.1355 290.501)" font-family="'SourceCodePro-Regular'" font-size="3">BLK</text>
+		</g>
+	</g>
+	<g id="Top">
+		<g id="_x39_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="32.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 31.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">9</text>
+		</g>
+		<g id="_x38_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="39.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 38.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">8</text>
+		</g>
+		<g id="_x37_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="46.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 45.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">7</text>
+		</g>
+		<g id="_x36_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="53.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 52.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">6</text>
+		</g>
+		<g id="_x35_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="60.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 59.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">5</text>
+		</g>
+		<g id="_x34_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="67.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 66.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">4</text>
+		</g>
+		<g id="_x33_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="74.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 73.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">3</text>
+		</g>
+		<g id="_x32_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="81.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 80.9349 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">2</text>
+		</g>
+		<g id="GND_4_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="88.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 86.1346 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">GND</text>
+		</g>
+		<g id="RST">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="95.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 93.1346 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">RST</text>
+		</g>
+		<g id="RXI">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="102.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 100.1346 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">RXI</text>
+		</g>
+		<g id="TXO">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="109.835" cy="292.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 107.1346 298.6695)" font-family="'SourceCodePro-Regular'" font-size="3">TXO</text>
+		</g>
+	</g>
+	<text id="Title_3_" transform="matrix(1 0 0 1 49 316.6693)" font-family="'SourceCodePro-Regular'" font-size="12">Arduino</text>
+</g>
+<g id="Rotary">
+	<rect id="Box_1_" x="86" y="17" fill="none" stroke="#000000" stroke-miterlimit="10" width="113.386" height="56.693"/>
+	<text id="Title_7_" transform="matrix(1 0 0 1 121.0935 48.3463)" font-family="'SourceCodePro-Regular'" font-size="12">Rotary</text>
+	<g id="Start_Position">
+		<g id="In_1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="166.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 155.0503 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">In</text>
+		</g>
+		<g id="Out">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="174.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 179.25 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">Out</text>
+		</g>
+		<text transform="matrix(1 0 0 1 145.4681 62.0026)" font-family="'SourceCodePro-Regular'" font-size="6">Start Position</text>
+	</g>
+	<g id="Dial">
+		<g id="In_3_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="108.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 97.0503 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">In</text>
+		</g>
+		<g id="Out_2_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="116.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 121.25 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">Out</text>
+		</g>
+		<text transform="matrix(1 0 0 1 105.4681 62.0026)" font-family="'SourceCodePro-Regular'" font-size="6">Dial</text>
+	</g>
+</g>
+<g id="Handset">
+	<rect id="Box_3_" x="366" y="17" fill="none" stroke="#000000" stroke-miterlimit="10" width="113.386" height="56.693"/>
+	<text id="Title_10_" transform="matrix(1 0 0 1 397.4934 48.3463)" font-family="'SourceCodePro-Regular'" font-size="12">Handset</text>
+	<g id="Microphone_2_">
+		<g id="_x2B__4_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="446.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 438.6499 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">+</text>
+		</g>
+		<g id="_x2D__4_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="454.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 459.25 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">-</text>
+		</g>
+		<text transform="matrix(1 0 0 1 432.6683 62.0026)" font-family="'SourceCodePro-Regular'" font-size="6">Microphone</text>
+	</g>
+	<g id="Speaker_2_">
+		<g id="_x2B__1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="388.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 380.6499 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">+</text>
+		</g>
+		<g id="_x2D__1_">
+			<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="396.835" cy="67.085" r="2.835"/>
+			<text transform="matrix(1 0 0 1 401.25 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">-</text>
+		</g>
+		<text transform="matrix(1 0 0 1 380.0682 62.0026)" font-family="'SourceCodePro-Regular'" font-size="6">Speaker</text>
+	</g>
+</g>
+<g id="Hook">
+	<rect id="Box" x="226" y="17" fill="none" stroke="#000000" stroke-miterlimit="10" width="113.386" height="56.693"/>
+	<text id="Title_8_" transform="matrix(1 0 0 1 268.2932 48.3463)" font-family="'SourceCodePro-Regular'" font-size="12">Hook</text>
+	<g id="In_2_">
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="278.835" cy="67.085" r="2.835"/>
+		<text transform="matrix(1 0 0 1 267.0503 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">In</text>
+	</g>
+	<g id="Out_1_">
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="286.835" cy="67.085" r="2.835"/>
+		<text transform="matrix(1 0 0 1 291.25 68.6693)" font-family="'SourceCodePro-Regular'" font-size="6">Out</text>
+	</g>
+</g>
+<g id="Cables">
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="86.835,551.085 86.835,517.485 
+		200.494,517.485 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="99.835,551.085 99.835,461.485 
+		200.494,461.485 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="200.494,486.685 200.289,480 323.489,480 
+		323.694,486.685 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="200.494,509.785 171,509.785 171,302.085 
+		196.835,302.085 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="200.494,502.085 179.5,502.085 
+		179.5,295.085 196.835,295.085 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="200.494,446.085 189.997,446.085 
+		189.997,376 306,376 306,302.085 287.835,302.085 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="111.835,551.085 111.835,528 39.835,528 
+		39.836,416.68 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="200.494,453.785 60.836,453.785 
+		60.836,416.68 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="200.494,430.685 200.494,419 323.694,419 
+		323.694,430.685 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="200.494,494.385 88.836,494.385 
+		88.835,332.488 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="200.494,438.385 194,438.385 194,413.436 
+		315.994,413.436 315.994,430.685 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="323.694,438.385 348,438.385 348,351 
+		102.836,351 102.835,332.488 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="323.694,446.085 368,446.085 368,225.085 
+		411.835,225.085 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="323.694,494.385 355.5,494.385 
+		355.5,218.085 411.835,218.085 	"/>
+	<polyline fill="none" stroke="#ED1C24" stroke-width="2" stroke-miterlimit="10" points="465.835,265.044 509.333,265.044 
+		509.333,386.982 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="465.835,257.044 536.333,257.044 
+		536.333,396.121 	"/>
+	<polyline fill="none" stroke="#00AEEF" stroke-width="2" stroke-miterlimit="10" points="81.835,292.085 81.835,267.085 
+		196.835,267.085 	"/>
+	<polyline fill="none" stroke="#2BB673" stroke-width="2" stroke-miterlimit="10" points="74.835,292.085 74.635,274.085 
+		196.835,274.085 	"/>
+	<polyline fill="none" stroke="#9E1F63" stroke-width="2" stroke-miterlimit="10" points="67.835,292.085 67.836,176.085 
+		196.835,176.085 	"/>
+	<polyline fill="none" stroke="#9E1F63" stroke-width="2" stroke-miterlimit="10" points="287.835,169.085 388.835,169.085 
+		388.835,67.085 	"/>
+	<polyline fill="none" stroke="#262262" stroke-width="2" stroke-miterlimit="10" points="287.835,183.085 396.835,183.085 
+		396.835,67.085 	"/>
+	<polyline fill="none" stroke="#F15A29" stroke-width="2" stroke-miterlimit="10" points="287.835,176.085 318.576,176.085 
+		318.576,259.879 411.835,260.085 	"/>
+	<polyline fill="none" stroke="#3C2415" stroke-width="2" stroke-miterlimit="10" points="287.835,190.085 311.413,190.085 
+		311.413,253.085 411.835,253.085 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="116.835,67.085 116.835,209.75 
+		144.665,209.75 144.665,393.5 315.994,393.5 315.994,438.385 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="174.835,67.085 174.835,210.333 
+		150,210.333 150,385.436 315.994,385.436 315.994,446.085 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="286.835,67.085 286.835,125.085 
+		321,125.085 321,318.312 315.994,318.312 315.994,453.785 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="315.994,461.485 315.994,469.5 
+		361.5,469.5 361.5,201.25 454.835,201.25 454.835,67.085 	"/>
+	<g id="_x31_0k_Resistor">
+		<text transform="matrix(1 0 0 1 299.7 532)" font-family="'SourceCodePro-Regular'" font-size="3">10k OHM</text>
+		<rect id="Resistor" x="295.057" y="528.826" fill="none" stroke="#000000" width="21.886" height="4.193"/>
+		<polyline fill="none" stroke="#000000" points="323.694,517.485 323.694,530.922 316.943,530.922 		"/>
+		<polyline fill="none" stroke="#000000" points="292.895,517.485 292.895,530.922 295.057,530.922 		"/>
+	</g>
+	<g id="_x31_0uF_Cap">
+		<path id="path17478" fill="none" stroke="#010101" stroke-width="1.5" d="M276,533.001C276,555,276,555,276,555"/>
+		<path id="path17480" fill="none" stroke="#010101" stroke-width="1.5" d="M279,555v-21.999"/>
+		<polyline fill="none" stroke="#010101" stroke-width="1.5" points="292.895,509.785 292.895,544.001 279,544.001 		"/>
+		<polyline fill="none" stroke="#010101" stroke-width="1.5" points="269.794,517.485 269.794,544.001 276,544.001 		"/>
+		<text transform="matrix(1 0 0 1 274.2502 530.9223)" font-family="'SourceCodePro-Regular'" font-size="3">10uF</text>
+	</g>
+	<polyline fill="none" stroke="#F9ED32" stroke-width="2" points="292.895,502.085 296.013,524.203 373,524.203 373,192.919 
+		446.835,192.919 446.835,67.085 	"/>
+	<polyline fill="none" stroke="#9E1F63" stroke-width="2" points="269.794,509.785 257.513,568.5 350.333,568.5 350.333,218.085 
+		287.835,218.085 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="196.835,281.085 158.75,281.085 
+		158.75,369.25 342.5,369.25 342.5,453.785 323.694,453.785 	"/>
+	<polyline fill="none" stroke="#EE2A7B" stroke-width="2" stroke-miterlimit="10" points="32.835,292.085 32.836,131.333 
+		337,131.333 337,267.085 411.835,267.085 	"/>
+	<polyline fill="none" stroke="#006838" stroke-width="2" stroke-miterlimit="10" points="39.835,292.085 39.835,99 108.835,99 
+		108.835,67.085 	"/>
+	<polyline fill="none" stroke="#2E3192" stroke-width="2" stroke-miterlimit="10" points="46.835,292.085 46.836,110.333 
+		166.835,110.333 166.835,67.085 	"/>
+	<polyline fill="none" stroke="#F7941E" stroke-width="2" stroke-miterlimit="10" points="53.835,292.085 53.836,122.333 
+		278.835,122.333 278.835,67.085 	"/>
+	<polyline fill="none" stroke="#C2B59B" stroke-width="2" stroke-miterlimit="10" points="196.835,232.085 60.835,232.085 
+		60.835,292.085 	"/>
+</g>
+</svg>
