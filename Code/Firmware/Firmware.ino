@@ -24,6 +24,7 @@ int phoneNumber[10] = {0,0,0,0,0,0,0,0,0,0};
 int numberCount = 0;
 
 int speakerShutOffPin = 9;
+int speakerShutOffToggle = 0;
 
 typedef enum {
 	limbo = 0,
@@ -101,6 +102,7 @@ void getAndDecodeState() {
 	if (state==incomingCall) {
 		digitalWrite(speakerShutOffPin, HIGH);
 	} else if (state!=audioStreaming && state!=connected) {
+		speakerShutOffToggle = 0;
 		digitalWrite(speakerShutOffPin, LOW);
 	}
 	free(stateHex);
@@ -185,6 +187,7 @@ void loop() {
 		} else {
 			if (state==incomingCall || state==incomingCallHold) {
 				serialSendVerify("C\r", "AOK");
+				speakerShutOffToggle = 0;
 				digitalWrite(speakerShutOffPin, LOW);
 			}
 		}
@@ -208,9 +211,13 @@ void loop() {
 					} else if (dialedNumber==3) {
 						serialSendVerify("AP\r", "AOK");
 					} else if (dialedNumber==4) {
-						digitalWrite(speakerShutOffPin, HIGH);
-					} else if (dialedNumber==5) {
-						digitalWrite(speakerShutOffPin, LOW);
+						if (speakerShutOffToggle==0) {
+							speakerShutOffToggle = 1;
+							digitalWrite(speakerShutOffPin, HIGH);
+						} else {
+							speakerShutOffToggle = 0;
+							digitalWrite(speakerShutOffPin, LOW);
+						}
 					}
 				} else if (hook==0) {
 					if (dialedNumber==3) {
