@@ -11,6 +11,7 @@ SoftwareSerial btSerial(2,3); // RX,TX
 int eventPin = 4;
 int eventValue = 1;
 int commandPin = 5;
+int commandToggle = 0;
 
 int hookPin = 6;
 int hookValue = 1;
@@ -114,6 +115,7 @@ void setup() {
 	pinMode(eventPin, INPUT);
 	pinMode(commandPin, OUTPUT);
 	digitalWrite(commandPin, LOW);
+	commandToggle = 1;
 	
 	pinMode(hookPin, INPUT_PULLUP);
 	pinMode(startPosPin, INPUT_PULLUP);
@@ -129,8 +131,9 @@ void setup() {
 void loop() {
 	if (btSerial.available())
 		Serial.write(btSerial.read());
-	if (Serial.available())
+	if (Serial.available()) {
 		btSerial.write(Serial.read());
+	}
 	
 	// Gather information from the pins to work with.
 	int event = digitalRead(eventPin);
@@ -212,6 +215,16 @@ void loop() {
 				} else if (hook==0) {
 					if (dialedNumber==3) {
 						serialSendVerify("AP\r", "AOK");
+					} else if (dialedNumber==9) {
+						if (commandToggle==1) {
+							Serial.print("Command Mode Off\n");
+							digitalWrite(commandPin, HIGH);
+							commandToggle = 0;
+						} else {
+							Serial.print("Command Mode On\n");
+							digitalWrite(commandPin, LOW);
+							commandToggle = 1;
+						}
 					}
 				} else if (hook==1 && state!=outgoingCall && state!=incomingCall && state!=activeCallInProgress && state!=threeWayWaiting && state!=threeWayHold && state!=threeWay && state!=incomingCallHold && state!=activeCall) {
 					phoneNumber[numberCount] = dialedNumber;

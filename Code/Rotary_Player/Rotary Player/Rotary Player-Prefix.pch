@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Rotary Player' target in the 'Rotary Player' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif

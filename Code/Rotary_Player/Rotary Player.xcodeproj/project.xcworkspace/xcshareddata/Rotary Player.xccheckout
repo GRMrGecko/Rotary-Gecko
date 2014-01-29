@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0E4BB332-BC42-417B-807A-34777077B658</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Rotary Player</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A28687E-3864-4112-AB75-1624B265E471</key>
+		<string>ssh://github.com/GRMrGecko/Rotary-Gecko.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Rotary Player/Rotary Player.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A28687E-3864-4112-AB75-1624B265E471</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/GRMrGecko/Rotary-Gecko.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A28687E-3864-4112-AB75-1624B265E471</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A28687E-3864-4112-AB75-1624B265E471</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Rotary-Gecko</string>
+		</dict>
+	</array>
+</dict>
+</plist>

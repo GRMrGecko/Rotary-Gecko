@@ -1,0 +1,326 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2A7C81F2189815CF00094EF7 /* MGMSound.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A7C81F1189815CF00094EF7 /* MGMSound.m */; };
+		2AAEF920189365CB00E05D4F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AAEF91F189365CB00E05D4F /* Cocoa.framework */; };
+		2AAEF92A189365CB00E05D4F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2AAEF928189365CB00E05D4F /* InfoPlist.strings */; };
+		2AAEF92C189365CB00E05D4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAEF92B189365CB00E05D4F /* main.m */; };
+		2AAEF930189365CB00E05D4F /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2AAEF92E189365CB00E05D4F /* Credits.rtf */; };
+		2AAEF933189365CB00E05D4F /* MGMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAEF932189365CB00E05D4F /* MGMAppDelegate.m */; };
+		2AAEF936189365CB00E05D4F /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AAEF934189365CB00E05D4F /* MainMenu.xib */; };
+		2AAEF93E1893660B00E05D4F /* MGMSerial.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AAEF93D1893660B00E05D4F /* MGMSerial.m */; };
+		2AAEF940189367CD00E05D4F /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AAEF93F189367CD00E05D4F /* IOKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2A7C81F0189815CF00094EF7 /* MGMSound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MGMSound.h; sourceTree = "<group>"; };
+		2A7C81F1189815CF00094EF7 /* MGMSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MGMSound.m; sourceTree = "<group>"; };
+		2AAEF91C189365CB00E05D4F /* Rotary Player.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rotary Player.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2AAEF91F189365CB00E05D4F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		2AAEF922189365CB00E05D4F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		2AAEF923189365CB00E05D4F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		2AAEF924189365CB00E05D4F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2AAEF927189365CB00E05D4F /* Rotary Player-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Rotary Player-Info.plist"; sourceTree = "<group>"; };
+		2AAEF929189365CB00E05D4F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2AAEF92B189365CB00E05D4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2AAEF92D189365CB00E05D4F /* Rotary Player-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rotary Player-Prefix.pch"; sourceTree = "<group>"; };
+		2AAEF92F189365CB00E05D4F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		2AAEF931189365CB00E05D4F /* MGMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MGMAppDelegate.h; sourceTree = "<group>"; };
+		2AAEF932189365CB00E05D4F /* MGMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MGMAppDelegate.m; sourceTree = "<group>"; };
+		2AAEF935189365CB00E05D4F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		2AAEF93C1893660B00E05D4F /* MGMSerial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MGMSerial.h; sourceTree = "<group>"; };
+		2AAEF93D1893660B00E05D4F /* MGMSerial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MGMSerial.m; sourceTree = "<group>"; };
+		2AAEF93F189367CD00E05D4F /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2AAEF919189365CB00E05D4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2AAEF940189367CD00E05D4F /* IOKit.framework in Frameworks */,
+				2AAEF920189365CB00E05D4F /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2AAEF913189365CB00E05D4F = {
+			isa = PBXGroup;
+			children = (
+				2AAEF925189365CB00E05D4F /* Rotary Player */,
+				2AAEF91E189365CB00E05D4F /* Frameworks */,
+				2AAEF91D189365CB00E05D4F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2AAEF91D189365CB00E05D4F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2AAEF91C189365CB00E05D4F /* Rotary Player.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2AAEF91E189365CB00E05D4F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2AAEF93F189367CD00E05D4F /* IOKit.framework */,
+				2AAEF91F189365CB00E05D4F /* Cocoa.framework */,
+				2AAEF921189365CB00E05D4F /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2AAEF921189365CB00E05D4F /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2AAEF922189365CB00E05D4F /* AppKit.framework */,
+				2AAEF923189365CB00E05D4F /* CoreData.framework */,
+				2AAEF924189365CB00E05D4F /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		2AAEF925189365CB00E05D4F /* Rotary Player */ = {
+			isa = PBXGroup;
+			children = (
+				2AAEF931189365CB00E05D4F /* MGMAppDelegate.h */,
+				2AAEF932189365CB00E05D4F /* MGMAppDelegate.m */,
+				2AAEF934189365CB00E05D4F /* MainMenu.xib */,
+				2AAEF926189365CB00E05D4F /* Supporting Files */,
+				2AAEF93C1893660B00E05D4F /* MGMSerial.h */,
+				2AAEF93D1893660B00E05D4F /* MGMSerial.m */,
+				2A7C81F0189815CF00094EF7 /* MGMSound.h */,
+				2A7C81F1189815CF00094EF7 /* MGMSound.m */,
+			);
+			path = "Rotary Player";
+			sourceTree = "<group>";
+		};
+		2AAEF926189365CB00E05D4F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2AAEF927189365CB00E05D4F /* Rotary Player-Info.plist */,
+				2AAEF928189365CB00E05D4F /* InfoPlist.strings */,
+				2AAEF92B189365CB00E05D4F /* main.m */,
+				2AAEF92D189365CB00E05D4F /* Rotary Player-Prefix.pch */,
+				2AAEF92E189365CB00E05D4F /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2AAEF91B189365CB00E05D4F /* Rotary Player */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2AAEF939189365CB00E05D4F /* Build configuration list for PBXNativeTarget "Rotary Player" */;
+			buildPhases = (
+				2AAEF918189365CB00E05D4F /* Sources */,
+				2AAEF919189365CB00E05D4F /* Frameworks */,
+				2AAEF91A189365CB00E05D4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Rotary Player";
+			productName = "Rotary Player";
+			productReference = 2AAEF91C189365CB00E05D4F /* Rotary Player.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2AAEF914189365CB00E05D4F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = MGM;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Mr. Gecko's Media";
+			};
+			buildConfigurationList = 2AAEF917189365CB00E05D4F /* Build configuration list for PBXProject "Rotary Player" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2AAEF913189365CB00E05D4F;
+			productRefGroup = 2AAEF91D189365CB00E05D4F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2AAEF91B189365CB00E05D4F /* Rotary Player */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2AAEF91A189365CB00E05D4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2AAEF92A189365CB00E05D4F /* InfoPlist.strings in Resources */,
+				2AAEF930189365CB00E05D4F /* Credits.rtf in Resources */,
+				2AAEF936189365CB00E05D4F /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2AAEF918189365CB00E05D4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2AAEF92C189365CB00E05D4F /* main.m in Sources */,
+				2AAEF933189365CB00E05D4F /* MGMAppDelegate.m in Sources */,
+				2AAEF93E1893660B00E05D4F /* MGMSerial.m in Sources */,
+				2A7C81F2189815CF00094EF7 /* MGMSound.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2AAEF928189365CB00E05D4F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2AAEF929189365CB00E05D4F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2AAEF92E189365CB00E05D4F /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2AAEF92F189365CB00E05D4F /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		2AAEF934189365CB00E05D4F /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2AAEF935189365CB00E05D4F /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2AAEF937189365CB00E05D4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		2AAEF938189365CB00E05D4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		2AAEF93A189365CB00E05D4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Rotary Player/Rotary Player-Prefix.pch";
+				INFOPLIST_FILE = "Rotary Player/Rotary Player-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2AAEF93B189365CB00E05D4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Rotary Player/Rotary Player-Prefix.pch";
+				INFOPLIST_FILE = "Rotary Player/Rotary Player-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2AAEF917189365CB00E05D4F /* Build configuration list for PBXProject "Rotary Player" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2AAEF937189365CB00E05D4F /* Debug */,
+				2AAEF938189365CB00E05D4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2AAEF939189365CB00E05D4F /* Build configuration list for PBXNativeTarget "Rotary Player" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2AAEF93A189365CB00E05D4F /* Debug */,
+				2AAEF93B189365CB00E05D4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2AAEF914189365CB00E05D4F /* Project object */;
+}
