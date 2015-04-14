@@ -2,7 +2,7 @@
 
 Rtoary Gecko is my work to convert a Rotary Phone into a Bluetooth Phone. You can dial numbers, and answer phone calls with your cell phone as the man in the middle that provides cell service.
 
-The documents stored here are the major documents needed to make a Rotary Phone Bluetooth. To read my quest to build this Phone, visit my blog at http://mrgecko.org. To get videos/photos and documentation to the hardware which I collected, you can visit my bitcasa share at http://l.bitcasa.com/xlehQejl.
+The documents stored here are the major documents needed to make a Rotary Phone Bluetooth. To read my quest to build this Phone, visit my blog at http://mrgecko.org. To get videos/photos and documentation to the hardware which I collected, you can visit my share at https://sf.gec.im/d/4ee3d43a9e/
 
 As I do with every code I write, I make it fairly easy to understand with my naming conventions, so there are not many comments to explain things, you should be able to just read it and know what it does.
 
